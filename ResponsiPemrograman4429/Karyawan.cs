@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 
-namespace Lat
+namespace Responsi
 {
     internal class Karyawan
     {
